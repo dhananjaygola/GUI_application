@@ -28,9 +28,7 @@ Embarcadero RAD studio 11 - C++ builder ( fmx ).
   
 ## Run Locally
 
-- Clone the project
-
-- Go to the Release directory
+- Download only Release directory
 
 - Open `Project1.exe`
 
@@ -38,17 +36,17 @@ Embarcadero RAD studio 11 - C++ builder ( fmx ).
   
 ## Deployment
 
-To view only code :
+To view code :
 
-- Open `Unit1.cpp` from C++ builder project directory.
+- Open `Unit1.cpp`.
 
 To view fmx design with code :
 
 - Install free trial version of [Embarcadero RAD studio 11.](https://www.embarcadero.com/products/cbuilder)
 
-- Copy the contents of C++ builder project directory to the path : `Embarcadero\Studio\Projects`
+- Copy `Unit1.cpp`, `Unit1.fmx` and `Unit1.h` files to the path : `Embarcadero\Studio\Projects`
 
-- Copy the cards directory from images to your C drive.
+- Run & Compile with debugging.
 
 <br />
 
