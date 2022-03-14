@@ -44,7 +44,7 @@ To view fmx design with code :
 
 - Install free trial version of [Embarcadero RAD studio 11.](https://www.embarcadero.com/products/cbuilder)
 
-- Copy `Unit1.cpp`, `Unit1.fmx` and `Unit1.h` files to the path : `Embarcadero\Studio\Projects`
+- Copy `Unit1.cpp`, `Unit1.fmx` and `Unit1.h` files from C++ builder project directory to the path : `Embarcadero\Studio\Projects`
 
 - Run & Compile with debugging.
 
